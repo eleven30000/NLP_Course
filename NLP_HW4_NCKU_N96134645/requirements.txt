@@ -1,0 +1,19 @@
+colab-xterm==0.2.0
+huggingface-hub==0.27.0
+langchain==0.3.13
+langchain-chroma==0.1.4
+langchain-community==0.3.13
+langchain-core==0.3.28
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.3
+nltk==3.9.1
+rank-bm25==0.2.2
+sentence-transformers==3.3.1
+tensorflow-datasets==4.9.7
+torch @ https://download.pytorch.org/whl/cu121_full/torch-2.5.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+torchsummary==1.5.1
+torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+tqdm==4.67.1
+transformers==4.47.1
+vega-datasets==0.9.0
